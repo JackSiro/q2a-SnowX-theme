@@ -1,0 +1,10 @@
+{
+	"name": "SnowX",
+	"description": "Non-responsive theme without RTL support",
+	"version": "1.4",
+	"date": "2018-03-02",
+	"author": "Q2A Market (extended by ProThoughts)",
+	"author_uri": "https://github.com/ProThoughts/q2a-SnowX-theme",
+	"license": "GPLv2",
+	"min_q2a": "1.5"
+}
