@@ -684,6 +684,10 @@ div.header-banner {
 	display: none;
 }
 
+.qa-q-list-item .qa-vote-buttons {
+    display: none;
+}
+
 .qa-vote-up-button, .qa-vote-up-disabled {
 	background: url(images/vote-buttons.png) no-repeat;
 	border: 0;
