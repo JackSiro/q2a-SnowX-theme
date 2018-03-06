@@ -659,14 +659,12 @@ div.header-banner {
 }
 
 .qa-voting {
-	background: #e7f7ff;
-	border: 1px solid #c5d6df;
+	background: #fff;
 	float: left;
 	width: 60px;
 	height: 60px;
-	margin-right: 5px;
+    margin-right: 5px;
 	padding: 0;
-	border-radius: 3px;
 }
 
 .qa-vote-buttons {
@@ -832,25 +830,25 @@ div.header-banner {
 
 /* Answers and views count */
 .qa-a-count {
-	background: #eafff4;
-	border: 1px solid #c1daa6;
+	background: #fff;
 	float: left;
 	width: 60px;
 	height: 60px;
 	text-align: center;
-	margin-right: 5px;
+    margin-right: 5px;
 	padding: 0;
-	border-radius: 3px;
+    border-radius: 3px;
+    color:#2DB651;
 }
 
 .qa-a-count-zero {
-	background: #ffe9d5;
-	border: 1px solid #ffd196;
+	background: #fff;
+    color:#ff6600;
 }
 
 .qa-a-count-selected {
-	background: #d9f5bb;
-	border: 1px solid #c1daa6;
+	background: #5FBA7D;
+    color:#fff;
 }
 
 .qa-a-count-data {
@@ -871,11 +869,9 @@ div.header-banner {
 	width: 60px;
 	height: 60px;
 	text-align: center;
-	margin-right: 5px;
+    margin-right: 5px;
 	padding: 0;
-	border: 1px solid #ddd;
 	overflow: hidden;
-	border-radius: 3px;
 }
 
 .qa-view-count-data {
@@ -1965,8 +1961,8 @@ a.qa-browse-cat-link:visited {
 
 /* zoom for IE, padding for early FF */
 .qa-a-list-item-selected {
-	background: #f1f7f3 !important;
-	border: 1px solid #89BF65;
+	background: #fff !important;
+	border: 1px solid #2DB651;
 	box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
 }
 
@@ -2697,7 +2693,4 @@ a.qa-browse-cat-link:visited {
 	0% { background-color: #ffffaa; }
 	100% { background-color: #fff; }
 }
-
-
-
 
