@@ -665,6 +665,7 @@ div.header-banner {
 	height: 60px;
     margin-right: 5px;
 	padding: 0;
+    color:#6A737C;
 }
 
 .qa-vote-buttons {
@@ -872,6 +873,7 @@ div.header-banner {
     margin-right: 5px;
 	padding: 0;
 	overflow: hidden;
+    color:#6A737C;
 }
 
 .qa-view-count-data {
