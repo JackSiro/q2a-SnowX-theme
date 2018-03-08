@@ -260,11 +260,18 @@ p {
 }
 
 .qa-search-field {
-	width: 300px;
+	width: 240px;
     height: 20px;
 	margin-right: 5px;
 	padding: 4px 5px;
 }
+
+@media (min-width: 1200px){
+    .qa-search-field {
+        width: 300px;
+    }
+} 
+
 .qam-login-text {
 	width: 125px;
 	margin-right: 5px;
@@ -276,7 +283,9 @@ p {
 .qam-rememberbox {
 	float: left;
 	padding: 7px 5px 1px;
+    display:none;
 }
+
 #qam-rememberme {
 	float: left;
 	margin: 0 5px 0 0;
@@ -2440,16 +2449,15 @@ a.qa-browse-cat-link:visited {
 }
 
 .qa-tag-link, .qa-widget-side .qa-q-view-tag-item, .qa-widget-side > div > a {
-	background: #eee;
+	background: #F8F8F8;
 	color: #666 !important;
 	font-size: 11px;
 	font-family: Arial, Tahoma, sans-serif;
 	display: inline-block;
 	text-decoration: none !important;
 	padding: 2px 8px;
-	border-bottom: 1px solid #ccc;
-	border-right: 1px solid #ccc;
-	border-radius: 2px;
+	border-radius: 6px;
+    border: 1px solid #0099cc;
 	-moz-transition: all ease-in-out 0.75s;
 	-webkit-transition: all ease-in-out 0.75s;
 	-o-transition: all ease-in-out 0.75s;
