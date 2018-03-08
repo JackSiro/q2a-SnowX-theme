@@ -1756,7 +1756,7 @@ div.header-banner {
 
 .qa-browse-cat-list {
 	list-style: none;
-	margin: 0;
+	margin: 10px;
 	padding: 0;
 }
 
@@ -1807,7 +1807,7 @@ a.qa-browse-cat-link,
 a.qa-browse-cat-link:visited {
 	font-weight: 700;
 	text-decoration: none;
-	color: #000;
+	color: #3366BB;
 }
 
 .qa-browse-cat-list-3 .qa-browse-cat-item {
