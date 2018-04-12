@@ -13,9 +13,9 @@ Plugin Version
 
 Features
 --------
-- Added support for large desktops
-- Modified top bar
-- Modified footer
+- [See list of features added][4]
+
+[4]: https://prothoughts.com/q2a-snowx-theme/
 
 Installation Guide
 ------------------
