@@ -154,7 +154,7 @@ class qa_html_theme extends qa_html_theme_base
 	{
 		$this->output(
 			'<div class="qa-attribution">',
-			'&nbsp;| <a href="https://github.com/ProThoughts/q2a-SnowX-theme">SnowX Theme</a>',
+			'&nbsp;| <a href="https://prothoughts.com/q2a-snowx-theme/">SnowX Theme</a>',
 			'</div>'
 		);
 
